@@ -1,5 +1,5 @@
-# Django 2.2.5 development environment with Docker containers
-Django 2.2.5 development environment with Docker containers for Python 3.7, PostgreSQL 11.5, Nginx 1.17.3, Gunicorn 19.9.0
+# Django development environment with Docker containers
+Django development environment with Docker containers for Python, PostgreSQL, Nginx, Gunicorn
 
 ## Installation
 Clone or download.
